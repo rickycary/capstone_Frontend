@@ -45,7 +45,7 @@ Coming Soon
 ![Wireframe](https://i.imgur.com/nCi8mbr.png)
 
 ### Link to Planning Trello Board
-[Trello Board](https://trello.com/b/qwlURttt/project-4)
+[Trello Board](https://trello.com/invite/b/cga8KL5C/ATTI98fec7b2ec62b4839ef45b01538b5a5e2D7025EF/capstone-project)
 
 ### Link to Netlify 
 [Live Site] Coming Soon
