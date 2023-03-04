@@ -10,7 +10,7 @@ This app lets user keep track of the coffee that they order at cafe's. If your a
 - Vue (New Language Learned)
 - HTML
 - CSS 
-- Bootstrap (New Language Learned)
+- Javascript
 - Netlify
 
 #### Technologies Used - Backend
@@ -18,11 +18,9 @@ This app lets user keep track of the coffee that they order at cafe's. If your a
 - Django 
 - Postgress 
 - Render
-
-or 
-
-- Javascript
-- Express 
+- Postman
+- Wireframe Pro
+- Drawsql
 
 
  #### Routes & Components
